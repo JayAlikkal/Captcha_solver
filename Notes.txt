@@ -1,0 +1,5 @@
+Lecture Slides
+
+Increase conflict, confusion, deception
+
+Traceroute - get route from IP
